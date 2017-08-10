@@ -1,2 +1,3 @@
 # css-book
-css
+- medium style scroll
+- parallax scrolling
