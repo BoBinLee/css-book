@@ -2,8 +2,8 @@
 - medium style scroll
 - parallax scrolling
 
-- Slider, Carousel, Banner, Gallery 의 차이점
-    Slider : <- ㅁ ->
+- Slider, Carousel, Banner, Gallery 의 차이점 <br/>
+    Slider : <- ㅁ ->
     Carousel : <- ㅁㅁㅁ->
     Banner : ㅁ
     Gallery : ㅁㅁㅁ
